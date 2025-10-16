@@ -13,7 +13,7 @@ int main () {
 
     // Cadastro de territórios
     printf("Cadastro de Territórios:\n");
-    for (int i = 0; i < 5; i++) {
+    for (int i = 1; i < 6; i++) {
         printf("Território %d:\n", i); // Incrementa o índice para exibição
 
         printf("Nome do território: "); // Solicita o nome do território
